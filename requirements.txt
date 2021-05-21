@@ -2,5 +2,5 @@ numpy
 pandas
 scikit-learn
 scipy
-tensorflow==1.13.1
+tensorflow==2.5.0
 google-api-python-client
